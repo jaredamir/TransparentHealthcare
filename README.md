@@ -10,11 +10,13 @@ A web platform that collects and analyzes real-world stories and data related to
 - Real-time updates with new testimonials and data.
 
 ## Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript (React)  
-- **Backend:** Python (Flask)  
+- **Frontend:** Material-UI, Tailwind CSS, Next.js, Nivo (built on D3.js), Redux
+- **Backend:** Python (Flask), GraphQL, Terraform, Kubernetes, Docker, AWS Lambda
 - **Data Handling:** Pandas, NumPy  
 - **Web Scraping:** BeautifulSoup, Selenium  
-- **Database:** SQLite (future plans for scaling)
+- **Database:** SQLite (future plans for scaling to PostgreSQL)
+- **Hosting** AWS, Vercel
+- **CI/CD** Github Actions
 
 ## Installation  
 1. Clone the repo:  
