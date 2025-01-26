@@ -26,6 +26,3 @@ A web platform that collects and analyzes real-world stories and data related to
 
 ## Contributing  
 Feel free to fork the repo and submit pull requests. For any major changes, open an issue first to discuss what you’d like to change.
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
